@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lavanyagalgali
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning EDA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... lavanyagalgali@gmail.com 
+I'm a driven Data Science Intern who is passionate about data processing, analytics , Machine Learning and artificial intelligence. I work with cutting-edge tools and technologies to transform raw data into meaningful insights and solutions.
 
 <!---
 lavanyagalgali/lavanyagalgali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
